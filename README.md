@@ -30,6 +30,7 @@ This program require connection with database:
 3.Add few record by command (example):
 
    insert into People (FirstName, LastName, Phone, Email, Created, Updated)
+   
 	  values ('Jan', 'Sławko','7123413','janslawko@gmail.com','2015/1/1','2015/1/2');
 	
 4.Enjoy:)
