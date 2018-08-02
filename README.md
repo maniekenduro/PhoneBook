@@ -1,10 +1,15 @@
 # PhoneBook
 This little console program can be used as a simply web phone book (I know it is useless but it's only for my education :) ):
 Functions:
+
 -Adding new records
+
 -Showing all records with pagination
+
 -Editing records
+
 -Deleting records.
+
 
 This program require connection with database:
 
