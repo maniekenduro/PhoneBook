@@ -7,6 +7,7 @@ Functions:
 -Deleting records.
 
 This program require connection with database:
+
 1.Create sql serwer with database Phonebook,
 
 2.Execute this commands
